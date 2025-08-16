@@ -35,7 +35,7 @@ Apple Developer Account: Free account for internal distribution, or paid ($99/ye
 ## Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/Paisabad.git
+git clone https://github.com/naiyarmuslim/Paisabad.git
 cd Paisabad
 
 
